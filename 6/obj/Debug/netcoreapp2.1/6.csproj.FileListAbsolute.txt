@@ -1,0 +1,11 @@
+D:\Programms\C#\Labs\Lab3\6\bin\Debug\netcoreapp2.1\6.deps.json
+D:\Programms\C#\Labs\Lab3\6\bin\Debug\netcoreapp2.1\6.runtimeconfig.json
+D:\Programms\C#\Labs\Lab3\6\bin\Debug\netcoreapp2.1\6.runtimeconfig.dev.json
+D:\Programms\C#\Labs\Lab3\6\bin\Debug\netcoreapp2.1\6.dll
+D:\Programms\C#\Labs\Lab3\6\bin\Debug\netcoreapp2.1\6.pdb
+D:\Programms\C#\Labs\Lab3\6\obj\Debug\netcoreapp2.1\6.csprojAssemblyReference.cache
+D:\Programms\C#\Labs\Lab3\6\obj\Debug\netcoreapp2.1\6.csproj.CoreCompileInputs.cache
+D:\Programms\C#\Labs\Lab3\6\obj\Debug\netcoreapp2.1\6.AssemblyInfoInputs.cache
+D:\Programms\C#\Labs\Lab3\6\obj\Debug\netcoreapp2.1\6.AssemblyInfo.cs
+D:\Programms\C#\Labs\Lab3\6\obj\Debug\netcoreapp2.1\6.dll
+D:\Programms\C#\Labs\Lab3\6\obj\Debug\netcoreapp2.1\6.pdb
